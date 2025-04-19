@@ -1,1 +1,2 @@
-# AWS_EKS-Terraform_node_group
+# # AWS EKS Cluster with Terraform IaC
+Provisioning AWS_EKS_node_group cluster using Terraform IaC
